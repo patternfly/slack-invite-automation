@@ -93,14 +93,14 @@ margin-top: 20px;
 }
 
 .field{
-background: url(../images/field.png) repeat;
+background: #333333;
 width: 448px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
 border: none;
 font-style: italic;
 font-family: 'Lato', sans-serif;
 font-size: 16px;
-color: #ffffff;
+color: #c0c0c0;
 padding: 15px;
 margin-bottom: 15px;
 outline: none;
